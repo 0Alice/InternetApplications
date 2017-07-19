@@ -2,5 +2,5 @@
 
 Test account :
 
-login:    admin
+login:    admin                   
 password: admin
